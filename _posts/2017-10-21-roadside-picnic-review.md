@@ -1,5 +1,3 @@
-# Roadside Picnic review
-
 ## or, why the Strugatskys are better than H.P. Lovecraft
 
 In his [talk/rant about the AI-risk crowd](http://idlewords.com/talks/superintelligence.htm), Maciej Cegłowski mentioned that what a lot of us need is to read better (meaning, Slavic) science fiction. This probably wasn't meant to be taken too seriously, but I stored it away regardless. I had actually already read Lem's _Solaris_ even before Maciej's post, and it was one of my favorite books, but his other suggestion, the Strugatsky brothers, totally slipped my mind for a while.
